@@ -4,18 +4,18 @@
 			"quarter": "Q2 2013",
 			"values": [
 			     {	"name": 	"APJ",
-			     	"value":	“6080",
-			     	"value2":	“21"
+			     	"value":	"6080",
+			     	"value2":	"21"
 			     },
 			     {
 					"name":	"EMEA",
 			    	"value":	"16576",
-			    	"value2":	"52”
+			    	"value2":	"52"
 			     },
 			     {
 			    	"name":	"Gr.China",
-			    	"value":	“474”,
-			    	"value2":	“6”
+			    	"value":	"474",
+			    	"value2":	"6"
 			     },
 			     {
 			    	"name":	"Latin America",
@@ -44,13 +44,13 @@
 				},
 				{
 					"name":		"EMEA",
-					"value":	“12689",
-					"value2":	"57”
+					"value":	"12689",
+					"value2":	"57"
 				},
 				{
 					"name":		"Gr.China",
-					"value":	“542”,
-					"value2":	“8”
+					"value":	"542",
+					"value2":	"8"
 				},
 				{
 					"name":		"Latin America",
@@ -74,18 +74,18 @@
 			"values":	[
 				{
 					"name":		"APJ",
-					"value":	“16114",
+					"value":	"16114",
 					"value2":	"54"
 				},
 				{
 					"name":		"EMEA",
-					"value":	“25731",
+					"value":	"25731",
 					"value2":	"81"
 				},
 				{
 					"name":		"Gr.China",
-					"value":	“872”,
-					"value2":	“12”
+					"value":	"872",
+					"value2":	"12"
 				},
 				{
 					"name":		"Latin America",
@@ -99,7 +99,7 @@
 				},
 				{
 					"name":		"North America",
-					"value":	“61386",
+					"value":	"61386",
 					"value2":	"125"
 				}
 			]
@@ -109,7 +109,7 @@
 			"values":	[
 				{
 					"name":		"APJ",
-					"value":	“15006",
+					"value":	"15006",
 					"value2":	"42"
 				},
 				{
@@ -119,13 +119,13 @@
 				},
 				{
 					"name":		"Gr.China",
-					"value":	“1202”,
-					"value2":	“14”
+					"value":	"1202",
+					"value2":	"14"
 				},
 				{
 					"name":		"Latin America",
-					"value":	“10951",
-					"value2":	“21”
+					"value":	"10951",
+					"value2":	"21"
 				},
 				{
 					"name":		"MEE",
@@ -154,23 +154,23 @@
 				},
 				{
 					"name":		"Gr.China",
-					"value":	"2800”,
-					"value2":	"10”
+					"value":	"2800",
+					"value2":	"10"
 				},
 				{
 					"name":		"Latin America",
-					"value":	“5602",
+					"value":	"5602",
 					"value2":	"11"
 				},
 				{
 					"name":		"MEE",
-					"value":	“12613",
+					"value":	"12613",
 					"value2":	"54"
 				},
 				{
 					"name":		"North America",
 					"value":	"27187",
-					"value2":	“76"
+					"value2":	"76"
 				}
 			]
 		}

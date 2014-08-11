@@ -3,49 +3,49 @@
 		"region":	"APJ",
 		"deals":	[
 			{
-				"customer":	“AAA Ltd",
+				"customer":	"AAA Ltd",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"899"
 			},
 			{
-				"customer":	“BBB Plc",
+				"customer":	"BBB Plc",
 				"qualification":	"Commit",
 				"date":	"6/30/2014",
 				"value":	"406"
 			},
 			{
-				"customer":	“CCC”,
+				"customer":	"CCC",
 				"qualification":	"Probable",
 				"date":	"6/20/2014",
 				"value":	"151"
 			},
 			{
-				"customer":	“DDD Plc",
+				"customer":	"DDD Plc",
 				"qualification":	"Commit",
 				"date":	"6/23/2014",
 				"value":	"133"
 			},
 			{
-				"customer":	“EEE CORPORATION",
+				"customer":	"EEE CORPORATION",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"77"
 			},
 			{
-				"customer":	“FFF Ltd",
+				"customer":	"FFF Ltd",
 				"qualification":	"Commit",
 				"date":	"6/30/2014",
 				"value":	"42"
 			},
 			{
-				"customer":	“GGG Co-Operative Ltd",
+				"customer":	"GGG Co-Operative Ltd",
 				"qualification":	"Commit",
 				"date":	"6/6/2014",
 				"value":	"9"
 			},
 			{
-				"customer":	“HHH, Ltd.",
+				"customer":	"HHH, Ltd.",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"8"
@@ -56,61 +56,61 @@
 		"region":	"EMEA",
 		"deals":	[
 			{
-				"customer":	“AAA COMPANY",
+				"customer":	"AAA COMPANY",
 				"qualification":	"Probable",
 				"date":	"6/29/2014",
 				"value":	"1052"
 			},
 			{
-				"customer":	“BBB”,
+				"customer":	"BBB",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"471"
 			},
 			{
-				"customer":	“CCC”,
+				"customer":	"CCC",
 				"qualification":	"Probable",
 				"date":	"6/25/2014",
 				"value":	"248"
 			},
 			{
-				"customer":	“DDD Servizi S.r.l.",
+				"customer":	"DDD Servizi S.r.l.",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"190"
 			},
 			{
-				"customer":	“EEE Plc",
+				"customer":	"EEE Plc",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"98"
 			},
 			{
-				"customer":	“FFF S.A.”,
+				"customer":	"FFF S.A.",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"60"
 			},
 			{
-				"customer":	“GGG S.p.A",
+				"customer":	"GGG S.p.A",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"54"
 			},
 			{
-				"customer":	“HHH BVBA",
+				"customer":	"HHH BVBA",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"48"
 			},
 			{
-				"customer":	“III AB",
+				"customer":	"III AB",
 				"qualification":	"Commit",
 				"date":	"6/29/2014",
 				"value":	"48"
 			},
 			{
-				"customer":	“LLL, S.A.",
+				"customer":	"LLL, S.A.",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"42"
@@ -121,61 +121,61 @@
 		"region":	"LA",
 		"deals":	[
 			{
-				"customer":	“AAA Servicios Administrativos",
+				"customer":	"AAA Servicios Administrativos",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"11037"
 			},
 			{
-				"customer":	“BBB”,
+				"customer":	"BBB",
 				"qualification":	"Commit",
 				"date":	"6/25/2014",
 				"value":	"978"
 			},
 			{
-				"customer":	“CCC S.A.",
+				"customer":	"CCC S.A.",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"666"
 			},
 			{
-				"customer":	"Servicios Administrativos DDD”,
+				"customer":	"Servicios Administrativos DDD",
 				"qualification":	"Commit",
 				"date":	"6/30/2014",
 				"value":	"473"
 			},
 			{
-				"customer":	“EEE Servicios Tecnologicos S.A.",
+				"customer":	"EEE Servicios Tecnologicos S.A.",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"334"
 			},
 			{
-				"customer":	“FFF, S.A. de C.V.",
+				"customer":	"FFF, S.A. de C.V.",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"292"
 			},
 			{
-				"customer":	“GGG”,
+				"customer":	"GGG",
 				"qualification":	"Commit",
 				"date":	"6/25/2014",
 				"value":	"259"
 			},
 			{
-				"customer":	“HHH”,
+				"customer":	"HHH",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"245"
 			},
 			{
-				"customer":	“III Ltda",
+				"customer":	"III Ltda",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"243"
 			},
 			{
-				"customer":	“LLL S.A.",
+				"customer":	"LLL S.A.",
 				"qualification":	"Probable",
 				"date":	"6/20/2014",
 				"value":	"186"
@@ -186,61 +186,61 @@
 		"region":	"MEE",
 		"deals":	[
 			{
-				"customer":	“AAA Rückversicherungs-Gesellschaft",
+				"customer":	"AAA Rückversicherungs-Gesellschaft",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"2997"
 			},
 			{
-				"customer":	“BBB SA",
+				"customer":	"BBB SA",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"2721"
 			},
 			{
-				"customer":	“CCC”,
+				"customer":	"CCC",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"512"
 			},
 			{
-				"customer":	“DDD Zrt.",
+				"customer":	"DDD Zrt.",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"400"
 			},
 			{
-				"customer":	“EEE S.A.",
+				"customer":	"EEE S.A.",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"349"
 			},
 			{
-				"customer":	“FFF”,
+				"customer":	"FFF",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"339"
 			},
 			{
-				"customer":	“GGG”,
+				"customer":	"GGG",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"295"
 			},
 			{
-				"customer":	“HHH fond",
+				"customer":	"HHH fond",
 				"qualification":	"Commit",
 				"date":	"6/30/2014",
 				"value":	"292"
 			},
 			{
-				"customer":	“III GmbH",
+				"customer":	"III GmbH",
 				"qualification":	"Probable",
 				"date":	"6/28/2014",
 				"value":	"198"
 			},
 			{
-				"customer":	“LLL”,
+				"customer":	"LLL",
 				"qualification":	"Commit",
 				"date":	"6/30/2014",
 				"value":	"180"
@@ -251,61 +251,61 @@
 		"region":	"NA",
 		"deals":	[
 			{
-				"customer":	“AAA, Inc.",
+				"customer":	"AAA, Inc.",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"6575"
 			},
 			{
-				"customer":	“BBB”,
+				"customer":	"BBB",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"5789"
 			},
 			{
-				"customer":	“CCC Inc.",
+				"customer":	"CCC Inc.",
 				"qualification":	"Commit",
 				"date":	"6/30/2014",
 				"value":	"3214"
 			},
 			{
-				"customer":	“DDD Company",
+				"customer":	"DDD Company",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"3170"
 			},
 			{
-				"customer":	“EEE Limited",
+				"customer":	"EEE Limited",
 				"qualification":	"Probable",
 				"date":	"6/30/2014",
 				"value":	"2572"
 			},
 			{
-				"customer":	“FFF Inc.",
+				"customer":	"FFF Inc.",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"1831"
 			},
 			{
-				"customer":	“GGG Inc.",
+				"customer":	"GGG Inc.",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"1654"
 			},
 			{
-				"customer":	“HHH Technology Corporation",
+				"customer":	"HHH Technology Corporation",
 				"qualification":	"Probable",
 				"date":	"6/27/2014",
 				"value":	"1189"
 			},
 			{
-				"customer":	“III Inc.",
+				"customer":	"III Inc.",
 				"qualification":	"Commit",
 				"date":	"6/27/2014",
 				"value":	"1122"
 			},
 			{
-				"customer":	“LLL Companies L.L.C.",
+				"customer":	"LLL Companies L.L.C.",
 				"qualification":	"Probable",
 				"date":	"6/23/2014",
 				"value":	"996"

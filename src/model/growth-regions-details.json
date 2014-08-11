@@ -6,8 +6,8 @@
 				"quarter": "Q2 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“1205”,
-				     	"value2":	“8”
+				     	"value":	"1205",
+				     	"value2":	"8"
 				     },
 				     {
 						"name":	"Segment B",
@@ -16,13 +16,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“869”,
-				    	"value2":	“4”
+				    	"value":	"869",
+				    	"value2":	"4"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“385”,
-				    	"value2":	“3”
+				    	"value":	"385",
+				    	"value2":	"3"
 				     },
 				     {
 						"name":	"Segment E",
@@ -50,13 +50,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	"980”,
-				    	"value2":	“6”
+				    	"value":	"980",
+				    	"value2":	"6"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“1400”,
-				    	"value2":	“9”
+				    	"value":	"1400",
+				    	"value2":	"9"
 				     },
 				     {
 						"name":	"Segment E",
@@ -65,8 +65,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	“520”,
-				    	"value2":	“10”
+				    	"value":	"520",
+				    	"value2":	"10"
 				     }
 				]	
 			},
@@ -74,8 +74,8 @@
 				"quarter": "Q4 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“1468”,
-				     	"value2":	“12”
+				     	"value":	"1468",
+				     	"value2":	"12"
 				     },
 				     {
 						"name":	"Segment B",
@@ -84,23 +84,23 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“987”,
-				    	"value2":	“7”
+				    	"value":	"987",
+				    	"value2":	"7"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“2410”,
-				    	"value2":	“12”
+				    	"value":	"2410",
+				    	"value2":	"12"
 				     },
 				     {
 						"name":	"Segment E",
 				    	"value":	"12416",
-				    	"value2":	“32”
+				    	"value2":	"32"
 				     },
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"9661",
-				    	"value2":	“8”
+				    	"value2":	"8"
 				     }
 				]	
 			},
@@ -108,23 +108,23 @@
 				"quarter": "Q1 2014",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“8681”,
-				     	"value2":	“21”
+				     	"value":	"8681",
+				     	"value2":	"21"
 				     },
 				     {
 						"name":	"Segment B",
-				    	"value":	"4100”,
-				    	"value2":	"61”
+				    	"value":	"4100",
+				    	"value2":	"61"
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	"110”,
-				    	"value2":	“2”
+				    	"value":	"110",
+				    	"value2":	"2"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“368”,
-				    	"value2":	“9”
+				    	"value":	"368",
+				    	"value2":	"9"
 				     },
 				     {
 						"name":	"Segment E",
@@ -133,8 +133,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	“2854”,
-				    	"value2":	“17”
+				    	"value":	"2854",
+				    	"value2":	"17"
 				     }
 				]	
 			},
@@ -152,13 +152,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“7654”,
-				    	"value2":	“15”
+				    	"value":	"7654",
+				    	"value2":	"15"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“4386”,
-				    	"value2":	“22”
+				    	"value":	"4386",
+				    	"value2":	"22"
 				     },
 				     {
 						"name":	"Segment E",
@@ -167,8 +167,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	"790”,
-				    	"value2":	"10”
+				    	"value":	"790",
+				    	"value2":	"10"
 				     }
 				]	
 			}
@@ -192,13 +192,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	"210”,
-				    	"value2":	"10”
+				    	"value":	"210",
+				    	"value2":	"10"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“8920”,
-				    	"value2":	“115”
+				    	"value":	"8920",
+				    	"value2":	"115"
 				     },
 				     {
 						"name":	"Segment E",
@@ -207,8 +207,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	"1295”,
-				    	"value2":	"23”
+				    	"value":	"1295",
+				    	"value2":	"23"
 				     }
 				]	
 			},
@@ -217,22 +217,22 @@
 				"values": [
 				     {	"name": 	"Segment A",
 				     	"value":	"2754",
-				     	"value2":	"12”
+				     	"value2":	"12"
 				     },
 				     {
 						"name":	"Segment B",
-				    	"value":	“6946",
-				    	"value2":	“50"
+				    	"value":	"6946",
+				    	"value2":	"50"
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	"18290”,
-				    	"value2":	"23”
+				    	"value":	"18290",
+				    	"value2":	"23"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“589”,
-				    	"value2":	“7”
+				    	"value":	"589",
+				    	"value2":	"7"
 				     },
 				     {
 						"name":	"Segment E",
@@ -242,7 +242,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"11035",
-				    	"value2":	“14"
+				    	"value2":	"14"
 				     }
 				]	
 			},
@@ -250,8 +250,8 @@
 				"quarter": "Q4 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	"1589”,
-				     	"value2":	"20”
+				     	"value":	"1589",
+				     	"value2":	"20"
 				     },
 				     {
 						"name":	"Segment B",
@@ -260,13 +260,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“446”,
-				    	"value2":	“5”
+				    	"value":	"446",
+				    	"value2":	"5"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“1397”,
-				    	"value2":	“4”
+				    	"value":	"1397",
+				    	"value2":	"4"
 				     },
 				     {
 						"name":	"Segment E",
@@ -276,7 +276,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"4420",
-				    	"value2":	“13"
+				    	"value2":	"13"
 				     }
 				]	
 			},
@@ -295,12 +295,12 @@
 				     {
 				    	"name":	"Segment C",
 				    	"value":	"1052",
-				    	"value2":	"10”
+				    	"value2":	"10"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“2482",
-				    	"value2":	"15”
+				    	"value":	"2482",
+				    	"value2":	"15"
 				     },
 				     {
 						"name":	"Segment E",
@@ -310,7 +310,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"2122",
-				    	"value2":	“8”
+				    	"value2":	"8"
 				     }
 				]	
 			},
@@ -319,7 +319,7 @@
 				"values": [
 				     {	"name": 	"Segment A",
 				     	"value":	"7112",
-				     	"value2":	“34"
+				     	"value2":	"34"
 				     },
 				     {
 						"name":	"Segment B",
@@ -328,13 +328,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“1209",
-				    	"value2":	“23"
+				    	"value":	"1209",
+				    	"value2":	"23"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“4583”,
-				    	"value2":	“34”
+				    	"value":	"4583",
+				    	"value2":	"34"
 				     },
 				     {
 						"name":	"Segment E",
@@ -359,7 +359,7 @@
 				"values": [
 				     {	"name": 	"Segment A",
 				     	"value":	"141",
-				     	"value2":	“2”
+				     	"value2":	"2"
 				     },
 				     {
 						"name":	"Segment B",
@@ -368,13 +368,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“7287”,
-				    	"value2":	“12”
+				    	"value":	"7287",
+				    	"value2":	"12"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“3275”,
-				    	"value2":	“14”
+				    	"value":	"3275",
+				    	"value2":	"14"
 				     },
 				     {
 						"name":	"Segment E",
@@ -384,7 +384,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"3512",
-				    	"value2":	“7”
+				    	"value2":	"7"
 				     }
 				]	
 			},
@@ -402,13 +402,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“4427”,
-				    	"value2":	“21”
+				    	"value":	"4427",
+				    	"value2":	"21"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“8496”,
-				    	"value2":	“51”
+				    	"value":	"8496",
+				    	"value2":	"51"
 				     },
 				     {
 						"name":	"Segment E",
@@ -418,7 +418,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"2337",
-				    	"value2":	"11”
+				    	"value2":	"11"
 				     }
 				]	
 			},
@@ -426,8 +426,8 @@
 				"quarter": "Q4 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“9734”,
-				     	"value2":	“25”
+				     	"value":	"9734",
+				     	"value2":	"25"
 				     },
 				     {
 						"name":	"Segment B",
@@ -436,13 +436,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“5583”,
-				    	"value2":	“13”
+				    	"value":	"5583",
+				    	"value2":	"13"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“7734”,
-				    	"value2":	“18”
+				    	"value":	"7734",
+				    	"value2":	"18"
 				     },
 				     {
 						"name":	"Segment E",
@@ -451,8 +451,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	"4470”,
-				    	"value2":	"21”
+				    	"value":	"4470",
+				    	"value2":	"21"
 				     }
 				]	
 			},
@@ -460,23 +460,23 @@
 				"quarter": "Q1 2014",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	"640”,
-				     	"value2":	"12”
+				     	"value":	"640",
+				     	"value2":	"12"
 				     },
 				     {
 						"name":	"Segment B",
 				    	"value":	"1656",
-				    	"value2":	“12"
+				    	"value2":	"12"
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“827”,
-				    	"value2":	“3”
+				    	"value":	"827",
+				    	"value2":	"3"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	"2320”,
-				    	"value2":	"21”
+				    	"value":	"2320",
+				    	"value2":	"21"
 				     },
 				     {
 						"name":	"Segment E",
@@ -494,23 +494,23 @@
 				"quarter": "Q2 2014",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“1264",
-				     	"value2":	"16”
+				     	"value":	"1264",
+				     	"value2":	"16"
 				     },
 				     {
 						"name":	"Segment B",
 				    	"value":	"1683",
-				    	"value2":	“8”
+				    	"value2":	"8"
 				     },
 				     {
 				    	"name":	"Segment C",
 				    	"value":	"1798",
-				    	"value2":	"10”
+				    	"value2":	"10"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“2277",
-				    	"value2":	“15”
+				    	"value":	"2277",
+				    	"value2":	"15"
 				     },
 				     {
 						"name":	"Segment E",
@@ -519,8 +519,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	“9581”,
-				    	"value2":	“31”
+				    	"value":	"9581",
+				    	"value2":	"31"
 				     }
 				]	
 			}
@@ -534,8 +534,8 @@
 				"quarter": "Q2 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“122",
-				     	"value2":	“3”
+				     	"value":	"122",
+				     	"value2":	"3"
 				     },
 				     {
 						"name":	"Segment B",
@@ -545,12 +545,12 @@
 				     {
 				    	"name":	"Segment C",
 				    	"value":	"4701",
-				    	"value2":	"21”
+				    	"value2":	"21"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“5956”,
-				    	"value2":	“17”
+				    	"value":	"5956",
+				    	"value2":	"17"
 				     },
 				     {
 						"name":	"Segment E",
@@ -560,7 +560,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"1045",
-				    	"value2":	“7”
+				    	"value2":	"7"
 				     }
 				]	
 			},
@@ -568,8 +568,8 @@
 				"quarter": "Q3 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“620",
-				     	"value2":	“6”
+				     	"value":	"620",
+				     	"value2":	"6"
 				     },
 				     {
 						"name":	"Segment B",
@@ -579,12 +579,12 @@
 				     {
 				    	"name":	"Segment C",
 				    	"value":	"3143",
-				    	"value2":	“24"
+				    	"value2":	"24"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“7832”,
-				    	"value2":	“32”
+				    	"value":	"7832",
+				    	"value2":	"32"
 				     },
 				     {
 						"name":	"Segment E",
@@ -594,7 +594,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"4258",
-				    	"value2":	“12"
+				    	"value2":	"12"
 				     }
 				]	
 			},
@@ -613,12 +613,12 @@
 				     {
 				    	"name":	"Segment C",
 				    	"value":	"2427",
-				    	"value2":	“14"
+				    	"value2":	"14"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“3750",
-				    	"value2":	"18”
+				    	"value":	"3750",
+				    	"value2":	"18"
 				     },
 				     {
 						"name":	"Segment E",
@@ -646,13 +646,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“1630",
-				    	"value2":	“13"
+				    	"value":	"1630",
+				    	"value2":	"13"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“7934”,
-				    	"value2":	“12”
+				    	"value":	"7934",
+				    	"value2":	"12"
 				     },
 				     {
 						"name":	"Segment E",
@@ -662,7 +662,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"1886",
-				    	"value2":	“16"
+				    	"value2":	"16"
 				     }
 				]	
 			},
@@ -670,8 +670,8 @@
 				"quarter": "Q2 2014",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“3166",
-				     	"value2":	"16”
+				     	"value":	"3166",
+				     	"value2":	"16"
 				     },
 				     {
 						"name":	"Segment B",
@@ -680,13 +680,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“5325",
-				    	"value2":	“24"
+				    	"value":	"5325",
+				    	"value2":	"24"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“6512”,
-				    	"value2":	“24”
+				    	"value":	"6512",
+				    	"value2":	"24"
 				     },
 				     {
 						"name":	"Segment E",
@@ -695,8 +695,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	"530”,
-				    	"value2":	"51”
+				    	"value":	"530",
+				    	"value2":	"51"
 				     }
 				]	
 			}
@@ -710,23 +710,23 @@
 				"quarter": "Q2 2013",
 				"values": [
 				     {	"name": 	"Segment A",
-				     	"value":	“1406",
-				     	"value2":	“15"
+				     	"value":	"1406",
+				     	"value2":	"15"
 				     },
 				     {
 						"name":	"Segment B",
 				    	"value":	"3213",
-				    	"value2":	“19"
+				    	"value2":	"19"
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“5173”,
-				    	"value2":	“10”
+				    	"value":	"5173",
+				    	"value2":	"10"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“4736”,
-				    	"value2":	“12”
+				    	"value":	"4736",
+				    	"value2":	"12"
 				     },
 				     {
 						"name":	"Segment E",
@@ -735,8 +735,8 @@
 				     },
 				     {
 				    	"name":	"Segment F",
-				    	"value":	“3361”,
-				    	"value2":	“11”
+				    	"value":	"3361",
+				    	"value2":	"11"
 				     }
 				]	
 			},
@@ -754,13 +754,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“1236",
-				    	"value2":	"35”
+				    	"value":	"1236",
+				    	"value2":	"35"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“4321”,
-				    	"value2":	“14”
+				    	"value":	"4321",
+				    	"value2":	"14"
 				     },
 				     {
 						"name":	"Segment E",
@@ -770,7 +770,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"3542",
-				    	"value2":	“19"
+				    	"value2":	"19"
 				     }
 				]	
 			},
@@ -788,13 +788,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“3264",
-				    	"value2":	“13"
+				    	"value":	"3264",
+				    	"value2":	"13"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“7347”,
-				    	"value2":	“23”
+				    	"value":	"7347",
+				    	"value2":	"23"
 				     },
 				     {
 						"name":	"Segment E",
@@ -813,7 +813,7 @@
 				"values": [
 				     {	"name": 	"Segment A",
 				     	"value":	"2580",
-				     	"value2":	“18"
+				     	"value2":	"18"
 				     },
 				     {
 						"name":	"Segment B",
@@ -822,13 +822,13 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“536",
-				    	"value2":	“5”
+				    	"value":	"536",
+				    	"value2":	"5"
 				     },
 				     {
 				    	"name":	"Segment D",
-				    	"value":	“3608",
-				    	"value2":	“14"
+				    	"value":	"3608",
+				    	"value2":	"14"
 				     },
 				     {
 						"name":	"Segment E",
@@ -838,7 +838,7 @@
 				     {
 				    	"name":	"Segment F",
 				    	"value":	"12903",
-				    	"value2":	“25"
+				    	"value2":	"25"
 				     }
 				]	
 			},
@@ -856,8 +856,8 @@
 				     },
 				     {
 				    	"name":	"Segment C",
-				    	"value":	“4377",
-				    	"value2":	"21”
+				    	"value":	"4377",
+				    	"value2":	"21"
 				     },
 				     {
 				    	"name":	"Segment D",

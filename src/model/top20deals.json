@@ -1,43 +1,43 @@
 [
 	{
 		"region":	"North America",
-		"customer":	“AAA Inc.",
+		"customer":	"AAA Inc.",
 		"date":	"6/30/2014",
 		"value":	"7152"
 	},
 	{
 		"region":	"APJ",
-		"customer":	“BBB Limited",
+		"customer":	"BBB Limited",
 		"date":	"6/30/2014",
 		"value":	"6706"
 	},
 	{
 		"region":	"EMEA",
-		"customer":	“EEE SpA",
+		"customer":	"EEE SpA",
 		"date":	"6/30/2014",
 		"value":	"6000"
 	},
 	{
 		"region":	"MEE",
-		"customer":	“DDD”,
+		"customer":	"DDD",
 		"date":	"6/30/2014",
 		"value":	"2200"
 	},
 	{
 		"region":	"North America",
-		"customer":	“CCC”,
+		"customer":	"CCC",
 		"date":	"6/30/2014",
 		"value":	"2175"
 	},
 	{
 		"region":	"North America",
-		"customer":	“ABAC”,
+		"customer":	"ABAC",
 		"date":	"6/25/2014",
 		"value":	"1865"
 	},
 	{
 		"region":	"North America",
-		"customer":	“FFF Medical College",
+		"customer":	"FFF Medical College",
 		"date":	"6/30/2014",
 		"value":	"1171"
 	},
@@ -49,49 +49,49 @@
 	},
 	{
 		"region":	"APJ",
-		"customer":	“HHH Ltd",
+		"customer":	"HHH Ltd",
 		"date":	"6/27/2014",
 		"value":	"690"
 	},
 	{
 		"region":	"North America",
-		"customer":	“JJJ Agency",
+		"customer":	"JJJ Agency",
 		"date":	"6/27/2014",
 		"value":	"622"
 	},
 	{
 		"region":	"Latin America",
-		"customer":	“PPP, S.A. de C.V.",
+		"customer":	"PPP, S.A. de C.V.",
 		"date":	"6/24/2014",
 		"value":	"611"
 	},
 	{
 		"region":	"North America",
-		"customer":	“MMM, Inc.",
+		"customer":	"MMM, Inc.",
 		"date":	"6/30/2014",
 		"value":	"581"
 	},
 	{
 		"region":	"MEE",
-		"customer":	“OOO Insurance Company Ltd.",
+		"customer":	"OOO Insurance Company Ltd.",
 		"date":	"6/30/2014",
 		"value":	"479"
 	},
 	{
 		"region":	"North America",
-		"customer":	“QQQ North America",
+		"customer":	"QQQ North America",
 		"date":	"6/27/2014",
 		"value":	"426"
 	},
 	{
 		"region":	"North America",
-		"customer":	"TTT Inc.”,
+		"customer":	"TTT Inc.",
 		"date":	"6/27/2014",
 		"value":	"396"
 	},
 	{
 		"region":	"North America",
-		"customer":	“IIE”,
+		"customer":	"IIE",
 		"date":	"6/30/2014",
 		"value":	"370"
 	},
@@ -103,19 +103,19 @@
 	},
 	{
 		"region":	"APJ",
-		"customer":	“UAI Industries Private Limited",
+		"customer":	"UAI Industries Private Limited",
 		"date":	"6/25/2014",
 		"value":	"330"
 	},
 	{
 		"region":	"Latin America",
-		"customer":	“WAB S.A.",
+		"customer":	"WAB S.A.",
 		"date":	"6/30/2014",
 		"value":	"320"
 	},
 	{
 		"region":	"North America",
-		"customer":	“KLK USA, Inc.",
+		"customer":	"KLK USA, Inc.",
 		"date":	"6/30/2014",
 		"value":	"301"
 	}

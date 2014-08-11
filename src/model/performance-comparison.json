@@ -15,7 +15,7 @@
 			{
 				"region":	"LA",
 				"budget":	"8599",
-				"bw_ytd":	“8680",
+				"bw_ytd":	"8680",
 				"forecast":	"11979"
 			},
 			{
@@ -28,13 +28,13 @@
 				"region":	"MEE",
 				"budget":	"26800",
 				"bw_ytd":	"17600",
-				"forecast":	“29634"
+				"forecast":	"29634"
 			},
 			{
 				"region":	"NA",
 				"budget":	"56722",
 				"bw_ytd":	"59589",
-				"forecast":	“71666"
+				"forecast":	"71666"
 			}
 		]
 	}

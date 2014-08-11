@@ -19,8 +19,8 @@
 			     },
 			     {
 			    	"name":	"Segment D",
-			    	"value":	“654”,
-			    	"value2":	“6”
+			    	"value":	"654",
+			    	"value2":	"6"
 			     },
 			     {
 					"name":	"Segment E",
@@ -39,7 +39,7 @@
 			"values":	[
 				{	"name": 	"Segment A",
 			     	"value":	"6806",
-			     	"value2":	"24”
+			     	"value2":	"24"
 			     },
 			     {
 					"name":	"Segment B",
@@ -53,8 +53,8 @@
 			     },
 			     {
 			    	"name":	"Segment D",
-			    	"value":	“1492”,
-			    	"value2":	“7”
+			    	"value":	"1492",
+			    	"value2":	"7"
 			     },
 			     {
 					"name":	"Segment E",
@@ -83,23 +83,23 @@
 			     },
 			     {
 			    	"name":	"Segment C",
-			    	"value":	“1291",
-			    	"value2":	“17"
+			    	"value":	"1291",
+			    	"value2":	"17"
 			     },
 			     {
 			    	"name":	"Segment D",
-			    	"value":	“4350",
-			    	"value2":	"17”
+			    	"value":	"4350",
+			    	"value2":	"17"
 			     },
 			     {
 					"name":	"Segment E",
-			    	"value":	“52265",
-			    	"value2":	“155"
+			    	"value":	"52265",
+			    	"value2":	"155"
 			     },
 			     {
 			    	"name":	"Segment F",
 			    	"value":	"23785",
-			    	"value2":	“66"
+			    	"value2":	"66"
 			     }
 			]
 		},
@@ -117,13 +117,13 @@
 			     },
 			     {
 			    	"name":	"Segment C",
-			    	"value":	“5169",
-			    	"value2":	"61”
+			    	"value":	"5169",
+			    	"value2":	"61"
 			     },
 			     {
 			    	"name":	"Segment D",
-			    	"value":	“31322",
-			    	"value2":	"76”
+			    	"value":	"31322",
+			    	"value2":	"76"
 			     },
 			     {
 					"name":	"Segment E",
@@ -151,13 +151,13 @@
 			     },
 			     {
 			    	"name":	"Segment C",
-			    	"value":	“3789",
-			    	"value2":	“110"
+			    	"value":	"3789",
+			    	"value2":	"110"
 			     },
 			     {
 			    	"name":	"Segment D",
 			    	"value":	"12867",
-			    	"value2":	"91”
+			    	"value2":	"91"
 			     },
 			     {
 					"name":	"Segment E",
