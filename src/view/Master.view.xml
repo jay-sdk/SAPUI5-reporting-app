@@ -1,0 +1,27 @@
+<core:View
+	controllerName="sap.jaysdk.view.Master"
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core" >
+	<Page
+		title="Reports" >
+		<List
+			id="list"
+			mode="{device>/listMode}" 
+			select="handleListSelect"
+			items="{reports>/ReportCollection}" >
+			<ObjectListItem 
+				type="{device>/listItemType}" 
+				press="handleListItemPress" 
+				title="{reports>RepName} {reports>Region}" >
+				<attributes> 
+					<ObjectAttribute text="{
+						path: 'reports>RepDate',
+						formatter: 'sap.jaysdk.utils.Formatter.date'
+					}" />
+				</attributes> 
+				
+				</ObjectListItem>
+		</List>
+		
+	</Page>
+</core:View>

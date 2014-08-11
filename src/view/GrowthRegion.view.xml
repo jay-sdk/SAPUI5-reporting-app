@@ -1,0 +1,40 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns:l="sap.ui.layout" xmlns="sap.m"
+		controllerName="sap.jaysdk.view.GrowthRegion" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="{reports>RepName} {reports>Region}">
+		<content>
+		<l:VerticalLayout class="panelBoxContainer sapUiFioriObjectPage"
+			width="100%">
+			<l:content>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="Closing Quarter by Segment (W+B KEur)" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="SegmentStackedBarChartHolder" alignItems="Start"
+						justifyContent="Center"></FlexBox>
+				</Panel>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="Closing Quarter by Segment (W+B KEur ~ Deal Count)" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="SegmentScatterPlotHolder" alignItems="Start"
+						justifyContent="Center"></FlexBox>
+				</Panel>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="Top 10 Opportunities (Current Total Unweighted KEur)" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="HorizontalBarChartHolder" alignItems="Start"
+						justifyContent="Center"></FlexBox>
+				</Panel>
+			</l:content>
+		</l:VerticalLayout>
+	
+		</content>
+	</Page>
+</core:View>

@@ -1,0 +1,49 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc"
+	xmlns:l="sap.ui.layout" xmlns="sap.m" controllerName="sap.jaysdk.view.launchPad"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="HANA Services CW26 (Stated only)" class="sapUiFioriObjectPage"
+		showNavButton="{device>/isPhone}" navButtonPress="handleNavButtonPress"
+		navButtonTap="onBackButtonPress">
+		<l:VerticalLayout class="panelBoxContainer sapUiFioriObjectPage"
+			width="100%">
+			<l:content>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="Q2 Forecast (worst case - realistic - best) to Budget (KEuro)" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="miniGaugeHolder" alignItems="Start"
+						justifyContent="Center"></FlexBox>
+				</Panel>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="Q2 Forecast to Budget (Percentage)" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="QperformanceToTargetComparisonHolder"
+						alignItems="Start" justifyContent="Center"></FlexBox>
+				</Panel>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="YTD Booked/Won and Forecast to Budget (Percentage)" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="YTDperformanceToTargetComparisonHolder"
+						alignItems="Start" justifyContent="Center"></FlexBox>
+				</Panel>
+				<Panel>
+					<headerToolbar>
+						<Toolbar>
+							<Label text="In Process Q2 2014: Unweighted KEur @BUD Currency" />
+						</Toolbar>
+					</headerToolbar>
+					<FlexBox id="InProcessStackedBarChartHolder" alignItems="Start"
+						justifyContent="Center"></FlexBox>
+				</Panel>
+			</l:content>
+		</l:VerticalLayout>
+	</Page>
+</core:View>
