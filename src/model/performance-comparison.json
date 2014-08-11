@@ -1,0 +1,40 @@
+{
+		"regions":	[
+			{
+				"region":	"APJ",
+				"budget":	"13585",
+				"bw_ytd":	"13466",
+				"forecast":	"14885"
+			},
+			{
+				"region":	"EMEA",
+				"budget":	"17266",
+				"bw_ytd":	"34216",
+				"forecast":	"35931"
+			},
+			{
+				"region":	"LA",
+				"budget":	"8599",
+				"bw_ytd":	“8680",
+				"forecast":	"11979"
+			},
+			{
+				"region":	"Gr.China",
+				"budget":	"1149",
+				"bw_ytd":	"280”,
+				"forecast":	"638"
+			},
+			{
+				"region":	"MEE",
+				"budget":	"26800",
+				"bw_ytd":	"17600",
+				"forecast":	“29634"
+			},
+			{
+				"region":	"NA",
+				"budget":	"56722",
+				"bw_ytd":	"59589",
+				"forecast":	“71666"
+			}
+		]
+	}

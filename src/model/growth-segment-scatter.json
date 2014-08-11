@@ -1,0 +1,176 @@
+{
+		"buckets": [
+		{
+			"quarter": "Q2 2013",
+			"values": [
+			     {	"name": 	"Segment A",
+			     	"value":	"3228",
+			     	"value2":	"12"	
+			     },
+			     {
+					"name":	"Segment B",
+			    	"value":	"11752",
+			    	"value2":	"37"
+			     },
+			     {
+			    	"name":	"Segment C",
+			    	"value":	"492",
+			    	"value2":	"3"
+			     },
+			     {
+			    	"name":	"Segment D",
+			    	"value":	“654”,
+			    	"value2":	“6”
+			     },
+			     {
+					"name":	"Segment E",
+			    	"value":	"39165",
+			    	"value2":	"167"
+			     },
+			     {
+			    	"name":	"Segment F",
+			    	"value":	"4745",
+			    	"value2":	"9"
+			     }
+			]	
+		},
+		{
+			"quarter":	"Q3 2013",
+			"values":	[
+				{	"name": 	"Segment A",
+			     	"value":	"6806",
+			     	"value2":	"24”
+			     },
+			     {
+					"name":	"Segment B",
+			    	"value":	"11372",
+			    	"value2":	"51"
+			     },
+			     {
+			    	"name":	"Segment C",
+			    	"value":	"2306",
+			    	"value2":	"10"
+			     },
+			     {
+			    	"name":	"Segment D",
+			    	"value":	“1492”,
+			    	"value2":	“7”
+			     },
+			     {
+					"name":	"Segment E",
+			    	"value":	"33944",
+			    	"value2":	"170"
+			    
+			     },
+			     {
+			    	"name":	"Segment F",
+			    	"value":	"6498",
+			    	"value2":	"16"
+			     }
+			]
+		},
+		{
+			"quarter":	"Q4 2013",
+			"values":	[
+				{	"name": 	"Segment A",
+			     	"value":	"11228",
+			     	"value2":	"23"	
+			     },
+			     {
+					"name":	"Segment B",
+			    	"value":	"31324",
+			    	"value2":	"83"
+			     },
+			     {
+			    	"name":	"Segment C",
+			    	"value":	“1291",
+			    	"value2":	“17"
+			     },
+			     {
+			    	"name":	"Segment D",
+			    	"value":	“4350",
+			    	"value2":	"17”
+			     },
+			     {
+					"name":	"Segment E",
+			    	"value":	“52265",
+			    	"value2":	“155"
+			     },
+			     {
+			    	"name":	"Segment F",
+			    	"value":	"23785",
+			    	"value2":	“66"
+			     }
+			]
+		},
+		{
+			"quarter":	"Q1 2014",
+			"values":	[
+				{	"name": 	"Segment A",
+			     	"value":	"3708",
+			     	"value2":	"18"
+			     },
+			     {
+					"name":	"Segment B",
+			    	"value":	"20176",
+			    	"value2":	"74"
+			     },
+			     {
+			    	"name":	"Segment C",
+			    	"value":	“5169",
+			    	"value2":	"61”
+			     },
+			     {
+			    	"name":	"Segment D",
+			    	"value":	“31322",
+			    	"value2":	"76”
+			     },
+			     {
+					"name":	"Segment E",
+			    	"value":	"49069",
+			    	"value2":	"191"
+			     },
+			     {
+			    	"name":	"Segment F",
+			    	"value":	"8928",
+			    	"value2":	"19"
+			     }
+			]
+		},
+		{
+			"quarter":	"Q2 2014",
+			"values":	[
+				{	"name": 	"Segment A",
+			     	"value":	"2950",
+			     	"value2":	"26"	
+			     },
+			     {
+					"name":	"Segment B",
+			    	"value":	"6807",
+			    	"value2":	"54"
+			     },
+			     {
+			    	"name":	"Segment C",
+			    	"value":	“3789",
+			    	"value2":	“110"
+			     },
+			     {
+			    	"name":	"Segment D",
+			    	"value":	"12867",
+			    	"value2":	"91”
+			     },
+			     {
+					"name":	"Segment E",
+			    	"value":	"21411",
+			    	"value2":	"128"
+			     },
+			     {
+			    	"name":	"Segment F",
+			    	"value":	"18478",
+			    	"value2":	"21"
+			     }
+			]
+		}
+		            	
+	]
+}

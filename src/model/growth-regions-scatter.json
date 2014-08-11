@@ -1,0 +1,179 @@
+{
+		"buckets": [
+		{
+			"quarter": "Q2 2013",
+			"values": [
+			     {	"name": 	"APJ",
+			     	"value":	“6080",
+			     	"value2":	“21"
+			     },
+			     {
+					"name":	"EMEA",
+			    	"value":	"16576",
+			    	"value2":	"52”
+			     },
+			     {
+			    	"name":	"Gr.China",
+			    	"value":	“474”,
+			    	"value2":	“6”
+			     },
+			     {
+			    	"name":	"Latin America",
+			    	"value":	"6873",
+			    	"value2":	"19"
+			     },
+			     {
+					"name":	"MEE",
+			    	"value":	"13892",
+			    	"value2":	"42"
+			     },
+			     {
+			    	"name":	"North America",
+			    	"value":	"18961",
+			    	"value2":	"61"
+			     }
+			]	
+		},
+		{
+			"quarter":	"Q3 2013",
+			"values":	[
+				{
+					"name":		"APJ",
+					"value":	"4179",
+					"value2":	"34"
+				},
+				{
+					"name":		"EMEA",
+					"value":	“12689",
+					"value2":	"57”
+				},
+				{
+					"name":		"Gr.China",
+					"value":	“542”,
+					"value2":	“8”
+				},
+				{
+					"name":		"Latin America",
+					"value":	"3094",
+					"value2":	"20"
+				},
+				{
+					"name":		"MEE",
+					"value":	"11389",
+					"value2":	"60"
+				},
+				{
+					"name":		"North America",
+					"value":	"34575",
+					"value2":	"96"
+				}
+			]
+		},
+		{
+			"quarter":	"Q4 2013",
+			"values":	[
+				{
+					"name":		"APJ",
+					"value":	“16114",
+					"value2":	"54"
+				},
+				{
+					"name":		"EMEA",
+					"value":	“25731",
+					"value2":	"81"
+				},
+				{
+					"name":		"Gr.China",
+					"value":	“872”,
+					"value2":	“12”
+				},
+				{
+					"name":		"Latin America",
+					"value":	"14428",
+					"value2":	"21"
+				},
+				{
+					"name":		"MEE",
+					"value":	"35084",
+					"value2":	"107"
+				},
+				{
+					"name":		"North America",
+					"value":	“61386",
+					"value2":	"125"
+				}
+			]
+		},
+		{
+			"quarter":	"Q1 2014",
+			"values":	[
+				{
+					"name":		"APJ",
+					"value":	“15006",
+					"value2":	"42"
+				},
+				{
+					"name":		"EMEA",
+					"value":	"21618",
+					"value2":	"72"
+				},
+				{
+					"name":		"Gr.China",
+					"value":	“1202”,
+					"value2":	“14”
+				},
+				{
+					"name":		"Latin America",
+					"value":	“10951",
+					"value2":	“21”
+				},
+				{
+					"name":		"MEE",
+					"value":	"18832",
+					"value2":	"67"
+				},
+				{
+					"name":		"North America",
+					"value":	"32965",
+					"value2":	"105"
+				}
+			]
+		},
+		{
+			"quarter":	"Q2 2014",
+			"values":	[
+				{
+					"name":		"APJ",
+					"value":	"8582",
+					"value2":	"23"
+				},
+				{
+					"name":		"EMEA",
+					"value":	"17290",
+					"value2":	"53"
+				},
+				{
+					"name":		"Gr.China",
+					"value":	"2800”,
+					"value2":	"10”
+				},
+				{
+					"name":		"Latin America",
+					"value":	“5602",
+					"value2":	"11"
+				},
+				{
+					"name":		"MEE",
+					"value":	“12613",
+					"value2":	"54"
+				},
+				{
+					"name":		"North America",
+					"value":	"27187",
+					"value2":	“76"
+				}
+			]
+		}
+		            	
+	]
+}
